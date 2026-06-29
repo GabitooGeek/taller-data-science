@@ -113,13 +113,3 @@ rama1	LICENSE, README.md, .gitignore, requirements.txt	Rama secundaria con las d
 
 Este proyecto fue desarrollado como parte de las actividades prácticas del Diplomado en Ciencia de Datos, Inteligencia Artificial y Gestión de Proyectos para la Industria 4.0 - Unisangil.
 code Code
-
-### Instrucciones para usar este archivo:
-1. En la raíz de tu proyecto local, crea un archivo llamado `README.md` (si ya existe, puedes reemplazar su contenido).
-2. Abre el archivo con tu editor de texto o IDE (como VS Code o nano).
-3. Copia todo el bloque de código anterior y pégalo dentro del archivo.
-4. Si deseas guardar este cambio en tu repositorio, puedes añadirlo, hacer commit y subirlo a la rama de tu preferencia:
-   
-   git add README.md
-   git commit -m "Actualizar README con la documentacion del taller"
-   git push origin main
